@@ -1,0 +1,1 @@
+This is my Recipe Sharing website, where people can register and/or login. Users can add their own recipes that they have made with the option of adding an image. A Search feature was implemented to ensure those that want to look for specific foods.
